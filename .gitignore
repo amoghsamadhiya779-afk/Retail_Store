@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+models/saved_models/
+.env
+*.DS_Store
