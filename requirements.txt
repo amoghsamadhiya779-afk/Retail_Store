@@ -7,3 +7,13 @@ statsmodels
 prophet
 streamlit
 xgboost
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+prophet
+streamlit
+plotly
+nbformat
